@@ -1,3 +1,0 @@
-Create an Ai first that can arrange stuff in a better way through the week based on
-multiple information like, weather, events(TV like football), local events
-/or create an AI that has dynamic prices 
