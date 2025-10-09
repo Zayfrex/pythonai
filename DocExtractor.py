@@ -1,7 +1,7 @@
 from docx import Document
 
 # Load the .docx file
-doc = Document("C:/Users/Matteo/Documents/ThisIsAI.docx")
+doc = Document("C:/Users/matte/Documents/testdocreader.docx") #specify the path to your .docx file here
 
 # Extract all text
 full_text = []
